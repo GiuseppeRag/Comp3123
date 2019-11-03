@@ -1,0 +1,5 @@
+Any command labelled @ViewChild('siderav') should be replace with @ViewChild('siderav', {static: true})
+
+>cd backend (ignore the '&& mongod' commands)
+
+>npm install nodemon (--> -g <--)
